@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645278830 source:/home/margauxhanut/ProjectC/Semaine4_PointersToFunctions/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
